@@ -1,0 +1,25 @@
+--------------------Configuration: FuzzyCalculator - Win32 Debug--------------------
+Begining build with project "D:\SA\PROJECTS\FCALC\FuzzyCalculator\FuzzyCalculator.dsp", at root.
+Active configuration is Win32 (x86) Application (based on Win32 (x86) Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /Fp"Debug/FuzzyCalculator.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "_DEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x409 /fo"Debug/FuzzyCalculator.res" /d "_DEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Debug/FuzzyCalculator.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/FuzzyCalculator.pdb" /debug /machine:I386 /out:"Debug/FuzzyCalculator.exe" /pdbtype:sept "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating command line "rc.exe /l 0x409 /fo"Debug/FuzzyCalculator.res" /i "res" /d "_DEBUG" "D:\SA\PROJECTS\FCALC\FuzzyCalculator\res\FuzzyCalculator.rc"" 
+Creating temp file "C:\WINDOWS\TEMP\RSP80C4.TMP" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/FuzzyCalculator.pdb" /debug /machine:I386 /out:"Debug/FuzzyCalculator.exe" /pdbtype:sept 
+.\Debug\FazzyArithm.obj
+.\Debug\FuzzyCalculator.obj
+.\Debug\FuzzyCalculator.res>
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP80C4.TMP" 
+Compiling resources...
+Linking...
+
+
+
+FuzzyCalculator.exe - 0 error(s), 0 warning(s)
